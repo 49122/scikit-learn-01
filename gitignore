@@ -1,2 +1,2 @@
 rm -rf venv
-scikit-learn/datasets
+datasets/
